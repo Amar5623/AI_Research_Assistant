@@ -1,0 +1,7 @@
+pandas
+transformers
+torch
+pymongo
+scikit-learn
+flask
+gunicorn
